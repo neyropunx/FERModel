@@ -53,7 +53,7 @@
 
 Используемые изображения для тренировки и валидации находятся в архиве
 
-    [train_test_imgs.zip](https://drive.google.com/file/d/1vv51jZucP3ehw1x3fxQ-uoRZKFcloC5K/view?usp=sharing)
+[train_test_imgs.zip](https://drive.google.com/file/d/1vv51jZucP3ehw1x3fxQ-uoRZKFcloC5K/view?usp=sharing)
 
 Ноутбуки с подготовкой изображений и обучением моделей находятся в папке
 
